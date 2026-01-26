@@ -1,0 +1,28 @@
+main {
+    background-color: bisque;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+section {
+    padding: 10px 10px 10px 10px;
+
+    border-color: aqua;
+    border-style: groove;
+    border-width: 5px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+P {
+    height: 10px;
+    width: 100px;
+}
+
+.popular {
+    color: red;
+}
