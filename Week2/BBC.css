@@ -1,3 +1,30 @@
 ul {
     display: flex;
+    width: 1000px;
+}
+
+li {
+    width: 100px;
+    padding-left: 5px;
+    list-style-type: none;
+}
+
+main {
+    display: flex;
+    width: 1000px;
+}
+
+.mainstory {
+    flex: 10;
+    width: 500px;
+}
+
+.secondarystory {
+    flex: 5;
+    width: 500px;
+}
+
+.secondarystory img {
+    width: 100px;
+    height: 75px;
 }
