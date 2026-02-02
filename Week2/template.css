@@ -1,0 +1,55 @@
+nav {
+    display: flex;
+    background-color: darkgray;
+    height: 20px;
+    width: 1490px;
+    padding-right: 10px;
+}
+
+nav div {
+    margin-left: 10px;
+    flex: 1;
+}
+
+main{
+    display: flex;
+    width: 1500px
+}
+
+section {
+    flex: 7;
+    background-color: blueviolet;
+    height: 300px;
+}
+
+aside {
+    flex: 3;
+    width: min-content;
+    height: 300px;
+    background-color: blue;
+}
+
+footer {
+    display: flex;
+    height: 20px;
+    width: 1490px;
+    background-color: darkgray;
+    padding-right: 10px;
+}
+
+footer div {
+    margin-left: 10px;
+    flex: 1;
+}
+
+.first {
+    background-color: white;
+}
+
+.second {
+    background-color: grey;
+}
+
+.third {
+    background-color: dimgrey;
+}
